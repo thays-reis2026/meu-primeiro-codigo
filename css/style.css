@@ -63,14 +63,9 @@ a{
 }
 .principal {
     background-color: #FF6CB5;
-    min-height: 40px;
+    height: 40px;
     max-width: 60%;
-    margin: 20px auto;
-    padding: 10px;
-    display: flex;
-    align-items: center; 
-    justify-content: center;
-    text-align: center;
+    margin: 0 auto;
 }
 .principal a{
     color: white;
@@ -84,7 +79,7 @@ a{
 }
 button{
     background:#41f341;
-    border: 1px transparent;
+    border: 1px transparent sólid;
     padding: 2px 20px;
     border-radius: 3px;
 }
