@@ -79,7 +79,7 @@ a{
 }
 button{
     background:#41f341;
-    border: 1px transparent;
+    border: 1px transparent sólid;
     padding: 2px 20px;
     border-radius: 3px;
 }
