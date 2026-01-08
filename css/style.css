@@ -75,11 +75,14 @@ a{
 .principal li{
     display: inline-block;
     line-height: 2.5;
-    margin: 0 89px;
+    margin:0 60px 88px;
 }
 button{
     background:#41f341;
     border: 1px transparent;
     padding: 2px 20px;
     border-radius: 3px;
+}
+form {
+    padding-bottom: 10px; /* Cria um respiro interno na parte de baixo */
 }
